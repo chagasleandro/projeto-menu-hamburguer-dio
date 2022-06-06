@@ -1,7 +1,7 @@
 ## Menu Hamburguer e Morphing Menu com CSS transitions
 
 <p><Desafio de projeto referente ao bootcamp TQI Fullstack Developer. Trata-se do desenvolvimento de um portfólio utilizando apenas HTML e CSS./p>
-
+<img src="./img/img1.png" alt="img1">
 ## :globe_with_meridians: Tecnologias
 
 Esse projeto foi desenvolvido usando as seguintes tecnologias:
