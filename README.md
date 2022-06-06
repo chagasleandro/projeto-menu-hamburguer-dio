@@ -26,6 +26,6 @@ Clone essa aplicação utilizando o [Git](https://git-scm.com) e utilizando os s
 $ git clone https://github.com/chagasleandro/projeto-menu-hambuguer-dio
 ```
 Em seguida execute o arquivo 'index.html' no seu navegador. </br>
-<p>O perfil LinkedIn e GitHub pode ser acessado clicando nos dois botões na tela inicail do projeto, e também no meu tipo Hambuguer onde que clicando se mostra home, sobre e projetos no github. </p>
+<p>No projeto perfil LinkedIn e GitHub pode ser acessado clicando nos dois botões na tela inicail do projeto, e também no menu tipo Hambuguer onde que clicando se mostra home, sobre e projetos no github. </p>
 
 
